@@ -1,0 +1,7 @@
+[submodule "seyedmahdi/themes/smigle"]
+	path = seyedmahdi/themes/smigle
+	url = https://gitlab.com/ian-s-mcb/smigle-hugo-theme.git
+[submodule "seyedmahdi/public"]
+	path = seyedmahdi/public
+	url = https://github.com/seyedmahdi3/seyedmahdi.github.io.git
+	branch = main

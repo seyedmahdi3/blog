@@ -1,0 +1,4 @@
+baseURL = 'https://seyedmahdi.github.io'
+languageCode = 'en-us'
+title = 'Seyed Mahdi Blog'
+theme = 'smigle'
